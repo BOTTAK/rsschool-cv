@@ -1,2 +1,2 @@
 
-https://github.com/BOTTAK/rsschool-cv/CV.md
+https://github.com/BOTTAK/rsschool-cv/blob/main/CV.md
